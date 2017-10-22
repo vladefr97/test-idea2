@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2139fc54-be4d-43fc-a3a6-8bfd41d9aa39" name="https://github.com/vladefr97/hello-world" url="https://github.com/vladefr97/hello-world">
+        <fileTransfer host="https://github.com/vladefr97/hello-world" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
